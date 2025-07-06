@@ -1,4 +1,5 @@
 🌟 Project Name: Cosmetics Insights Dashboard
+
 An interactive, web-based dashboard application that helps users explore cosmetics trends, analyze top brands, compare price vs brand data, and evaluate product suitability for sensitive skin. This project integrates multiple Tableau dashboards and a story view into a single web application using Python Flask.
 
 📚 Table of Contents
@@ -27,6 +28,7 @@ License
 Contact
 
 📝 About the Project
+
 This project was developed as part of a guided internship to analyze cosmetic trends and consumer behavior using Tableau dashboards. The web application combines multiple Tableau dashboards into one seamless platform with "Next" and "Previous" navigation for easy browsing.
 
 The project is designed for:
@@ -154,13 +156,10 @@ This project is licensed under the MIT License.
 See the LICENSE file for details.
 
 🙋‍♀️ Contact
+
 Durga Bhavani
-Email: durga@example.com
-GitHub: github.com/username
-
-If you would like, I can help you customize this README further based on your exact project files, repository link, screenshots, and contact details. Just send me your project specifics!
-
-
+Email: 22h41a0558durga@gmail.com
+GitHub: github.com/
 
 
 
